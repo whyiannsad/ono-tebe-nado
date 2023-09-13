@@ -227,7 +227,7 @@
     display: grid;
     padding: 130px 50px 90px 50px;
     grid-template-columns: min-content 1fr;
-    column-gap: 120px;
+    column-gap: 30px;
 }
 
 .about__logo {
@@ -236,6 +236,7 @@
     height: 240px;
     border-radius: 50%;
     background: #000;
+    margin: 0 95px;
 }
 
 .about__logo-image {
