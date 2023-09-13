@@ -103,11 +103,13 @@
 .aligned_text_center {
     display: block;
     text-align: center;
+    height: 100px;
 }
 
 .aligned_text_right {
     display: block;
     text-align: right;
+    height: 100px;
 }
 
 .no_spacing {
