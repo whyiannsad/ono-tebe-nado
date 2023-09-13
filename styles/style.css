@@ -263,7 +263,7 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     align-items: start;
-    padding: 90px 50px;
+    padding: 80px 50px;
 }
 
 .footer__links-list {
